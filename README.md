@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirnaNika
 - 👀 I’m interested in - front-end development and anything that allows me to see the immediate impact of my work. There's something incredibly satisfying about writing code that creates visible, functional changes and helps improve user experiences.
-- 🌱 I’m currently learning -learning UX design, exploring how to create intuitive and user-centered digital products. 
+- 🌱 I’m currently learning- UX design, exploring how to create intuitive and user-centered digital products. 
 - 💞️ I’m looking to collaborate on - projects related to front-end development, UI/UX design, or building products that enhance user interaction.
 - 📫 How to reach me- https://www.linkedin.com/in/mirna-nikacevic-b72607108/
 - 😄 Pronouns: she/her
